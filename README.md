@@ -3,7 +3,7 @@ This Tableau project is a step-by-step learning experience in building dashboard
 ### Files you may need 
 - [FIGMA – HR Dashboard Background Design](https://www.figma.com/design/odXPOr5sBv0HnyyeOcscC4/Tableau-HR-Dashboard-Background-Layers?node-id=0-1&t=r12oUOCsKwD1WxH2-0)
 - [Tableau-HR-Project-Materials.zip](./Tableau-HR-Project-Materials-Data.rar)
-  The Zip folder contains the following:
+The Zip folder contains the following: Feel free to download and use the data provided above or you can follow the steps on **Data Generation** to generate data.
 1. Project Data – The data used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis and visualization in Tableau.
 2. Icons & Images – The icons used in the HR Dashboard are sourced from Flaticon and customized using Photopea to match the dashboard’s color scheme. The PDS (Photopea files) can be found in the icon folder of the zip file for further editing if needed.
 3. Mockups – The initial dashboard mockup was created using the Procreate app on a tablet. Additionally, the dashboard container mockups were created using draw.io.
@@ -37,6 +37,7 @@ The income analysis section should focus on salary-related metrics, including:
 - Users should be able to filter the list based on any of the available columns.
 
 ## Data Generation
+You can follow below steps to generate data into a .cvs file called humanResources.cvs or you can download the above file which contains this file.
 1. Chat-GPT Prompts
 Generate python script to generate a realistic dataset of 8950 records for human resources. The dataset should include the following attributes:
 - Employee ID: A unique identifier.
